@@ -1,5 +1,5 @@
 ---
-title: "play.js を使って iPad で Zenn CLI を使って Zenn の記事を書く"
+title: "iPad で play.js を使って Zenn CLI で Zenn の記事を書く"
 emoji: "✏️"
 type: "tech"
 topics: ["ipad", "zenn"]
