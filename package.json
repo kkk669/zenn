@@ -2,7 +2,7 @@
   "name": "zenn",
   "scripts": {
     "init": "zenn init",
-    "preview": "zenn preview"
+    "preview": "zenn preview --port 3001"
   },
   "devDependencies": {
     "zenn-cli": "^0.1.89"
